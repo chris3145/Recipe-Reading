@@ -10,8 +10,7 @@ import json # for json (duh)
 #
 
 # folder names to save the scraped html to
-folderName_Byte = "RecipeScrapes_Byte"
-folderName_String = "RecipeScrapes_Improved"
+folderName = "RecipeScrapes_Improved"
 
 
 # urls to retrieve
@@ -20,7 +19,10 @@ urls = []
 # 100% functional
 urls.append("http://www.pbs.org/food/kitchen-vignettes/salted-honey-cranberry-pumpkin-seed-bars")  # This one uses some ingredients multiple times in its list. It would be a good one to test that sort of thing with.
 # recipe1 is a broken file here from Hershey
-urls.append("http://altonbrown.com/triple-cheese-popcorn-recipe/")      # Lists butter and buttermilk. That could be tricky when asking about butter. It also has canola oil listed twice.
+urls.append("http://altonbrown.com/triple-cheese-popcorn-recipe/")      #works with old retrieval method, but fails with requests.get
+
+
+# Lists butter and buttermilk. That could be tricky when asking about butter. It also has canola oil listed twice.
 urls.append("http://www.mantitlement.com/recipes/creamy-sausage-spaghetti/")    # Has two ingredient items with tomatoes
 urls.append("http://www.theseasonedmom.com/one-dish-garlic-herb-pork-tenderloin/")
 urls.append("http://www.closetcooking.com/2011/04/jalapeno-popper-grilled-cheese-sandwich.html")
@@ -105,49 +107,39 @@ opener = AppURLopener()
 localFolder = os.path.dirname(__file__)
 
 # Create the complete path to folders (so they are placed in the directory where the script is running from)
-filePath_String = localFolder + "\\" + folderName_String
+filePath = localFolder + "\\" + folderName
 
 # Create directories if they don't already exist
-if not os.path.isdir(filePath_String):
-    os.makedirs(filePath_String)
-  
-# if not os.path.isdir(filePath_Byte):
-    # os.makedirs(filePath_Byte)
-    
+if not os.path.isdir(filePath):
+    os.makedirs(filePath)
+      
 # The loop that reads, saves, and reads each URL
 for ndx, member in enumerate(urls): 
     
+    ndx=1
+    
     recipeFile = "recipe" + str(ndx) + ".txt"
     
-    print('\n')
+    print('\n----------------------------')
     print("Recipe number ", ndx)
     print(urls[ndx])
     
     try :
         # Get the webpage content
-        # req = opener.open(urls[ndx])
-        # page_content = req.read()
         
-        print('\n')
-        print(ndx)
-        
-        r = requests.get(urls[ndx])
+        r = requests.get(urls[ndx])   
+
+        print("Status code: ", r.status_code)
         
                 
     except :
         print("Failed to load webpage.")
         page_content = "<title>Failed to load webpage</title>".encode()
-
+        # r.text = "<title>Failed to load webpage</title>" # Does this work?
             
-    # # save the page to a file in byte form
-    # with open(filePath_Byte + "\\" + recipeFile, 'w+b') as fid:   
-        # fid.write(urls[ndx].encode())
-        # fid.write('\r\n\r\n\r\n'.encode())
-        # fid.write(page_content)
-
 
     # save the page to a file in text (string) form
-    with open(filePath_String + "\\" + recipeFile, 'w+t', encoding='utf-8') as fid:   
+    with open(filePath + "\\" + recipeFile, 'w+t', encoding='utf-8') as fid:   
         fid.write(urls[ndx])
         fid.write('\n\n\n')
         fid.write(r.text)
@@ -156,9 +148,11 @@ for ndx, member in enumerate(urls):
         
         
     print("Reading text file", ndx)
-    with open(filePath_String + "\\" + recipeFile, 'rt', encoding='utf-8') as inf:
+    with open(filePath + "\\" + recipeFile, 'rt', encoding='utf-8') as inf:
                 filetext = inf.read()
     
+    
+    sys.exit()
     
 # Footer for printing
 

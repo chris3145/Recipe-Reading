@@ -45,7 +45,7 @@ node.parentNode.insertBefore(gads, node);
 </script>
 
 <style>
- /*#rightheadimg {background:  url(http://www.pbs.org/food/wp-content/themes/food/images/headers/summer/header2.png) top right no-repeat;}*/
+ /*#rightheadimg {background:  url(http://www.pbs.org/food/wp-content/themes/food/images/headers/summer/header1.png) top right no-repeat;}*/
 </style>
 
 
@@ -128,7 +128,7 @@ node.parentNode.insertBefore(gads, node);
 
 
 <script type="text/javascript">
-var GA_env = { ua_list: "UA-1996666-1,UA-3964855-1,UA-26636391-1,ET-26636391-2" };
+var GA_env = { ua_list: "UA-1996666-1" };
 
 GA_env.vars = { localized: 0 };
 
@@ -146,20 +146,6 @@ document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga
 <!-- End Google Tag Manager -->
 
 
-<!-- Begin comScore Tag --> 
-<script> 
-  var _comscore = _comscore || []; 
-  _comscore.push({ c1: "2", c2: "3005420" }); 
-  (function() { 
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
-    el.parentNode.insertBefore(s, el); 
-  })(); 
-</script> 
-<noscript> 
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005420&cv=2.0&cj=1" /> 
-</noscript> 
-<!-- End comScore Tag --> 
 
     <style>layer { position: absolute; }</style>
 <script type='text/javascript' language='JavaScript' src='/includes/javascript/elqNow/elqCfg.js'></script>
@@ -563,7 +549,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1453259177166-0');
 
 </div>
 <div id="tabs-2" class="comments">
-<h3 style="display: none;"><a class='rsswidget' href='http://pbsfood.disqus.com/latest.rss' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://www.pbs.org/food/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://pbsfood.disqus.com/' title=''>PBS Food &#8211; Latest Comments</a></h3><ul><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/orange-spice-braised-pork-belly/#comment-3120705035'>Re: Treat Yourself to Orange-Spice Braised Pork Belly</a><div class="rssSummary">Hi Johnson, yep, absolutely, though you may want to save the last step for when you reheat/serve it. Refrigerating it will also let you remove the excess fat very easily.</div> <cite>Marc Matsumoto</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/orange-spice-braised-pork-belly/#comment-3120537038'>Re: Treat Yourself to Orange-Spice Braised Pork Belly</a><div class="rssSummary">Marc, Can this be prepared few days before?</div> <cite>Johnson Hew</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/chefsteps/get-creative-pixar-style-ratatouille/#comment-3118557532'>Re: Get Creative with Pixar-Style Ratatouille</a><div class="rssSummary">The link still leads to a chocolate cake recipe, but there was another link (including picture) on the chocolate cake page that leads to the ratatouille recipe page. Unfortunately, it costs $39 to access the actual recipe! No thanks.</div> <cite>Busy Bea</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/recipes/asian-baked-tofu/#comment-3118521253'>Re: Asian Baked Tofu</a><div class="rssSummary">this shift is boooomb!!! great with rice, broccoli, and some thai sauce. super fast, simple recipe that tastes great! i modified mine slightly with apple vinegar, splash of worchester, and ground ginger to replace the onion flakes. super good and very easy to make! also i placed the tofu on paper towels to take out some excess moisture. next time i plan on a</div> <cite>pipi</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/ginger-miso-chicken-soboro/#comment-3118409948'>Re: Prepare Ginger Miso Chicken Soboro for a Quick Meal</a><div class="rssSummary">Tuna soboro was a staple when I was growing up. My mother liked to add some chile flakes (she loved spicy food). Depending on her mood, sometimes some rice vinegar and sesame oil made it into the mix. She grew up during WWII in Japan and knew how to improvise since they didn&#039;t always have much. I have made it with leftover roast chicken and smelts. It</div> <cite>paizley</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/recipes/seaweed-salad/#comment-3118390385'>Re: Seaweed Salad</a><div class="rssSummary">Hi JennEssa, Konbu is too tough to use for a seaweed salad. This mix included wakame, wakame stem, agar, white woodear, green suginori, and tosakanori.</div> <cite>Marc Matsumoto</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/recipes/rosace-lorange/#comment-3118163600'>Re: Rosace à l’Orange</a><div class="rssSummary">Kellie, I posted a question to you above. Thanks!</div> <cite>Vee</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/recipes/rosace-lorange/#comment-3118162426'>Re: Rosace à l’Orange</a><div class="rssSummary">Kellie, How did your Rosace à l’Orange turn out? Was it fabulous?</div> <cite>Vee</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/kitchen-vignettes/celebrate-christmas-morning-cranberry-orange-brioche-star/#comment-3118112018'>Re: Celebrate Christmas Morning with a Cranberry Orange Brioche Star</a><div class="rssSummary">This looks fantastic! Beautiful video too. I&#039;m putting it in my notes to make sure I don&#039;t forget about it for Christmas 2017. And it&#039;s only January :(</div> <cite>Robin H</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/kitchen-vignettes/beet-tarts-goat-cheese-caramelized-onions/#comment-3118069142'>Re: Beet Tarts with Goat Cheese and Caramelized Onions</a><div class="rssSummary">When you tried whole wheat was it freshly ground? I wonder if that would be lighter.</div> <cite>Cheri Dowdy</cite></li></ul>	
+<h3 style="display: none;"><a class='rsswidget' href='http://pbsfood.disqus.com/latest.rss' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://www.pbs.org/food/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://pbsfood.disqus.com/' title=''>PBS Food &#8211; Latest Comments</a></h3><ul><li><a class='rsswidget' href='http://www.pbs.org/food/the-history-kitchen/10-edible-aphrodisiacs/#comment-3149196568'>Re: Learn Why These 10 Foods Are Edible Aphrodisiacs</a><div class="rssSummary">Wishful thinking. Although all of the foods mentioned might taste good, none of them have been proven, or even considered to be aphrodisiacs. Since so many of these foods are eaten in combination, if this were true, a large percentage of the world&#039;s population would be out humping lamp posts.</div> <cite>SuperChef</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/?p=38833#comment-3148897513'>Re: Soothe Your Soul with Crespelle in Brodo, Italian Crepes in Broth</a><div class="rssSummary">So Lovely - as always! Mary</div> <cite>Mary</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/beef-broccoli-yakiudon-stirfry-makes-easy-delicious-meal/#comment-3148782641'>Re: Beef and Broccoli Yakiudon Stirfry Makes an Easy, Delicious Meal</a><div class="rssSummary">Hi Jen, typically white wine is not a suitable substitute for sake since it is much more acidic and has a different flavor profile, but for this particular recipe, white wine should work fine.</div> <cite>Marc Matsumoto</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/myth-sushi-grade/#comment-3148781287'>Re: The Myth of Sushi-Grade</a><div class="rssSummary">Hi Crazyforsushi, please read the article above, it&#039;s intended to help you know what to look for. At the end of the day there&#039;s not sure bet and no simple test to know whether something is safe or not, so there will always be some risks associated with eating raw/undercooked seafood.</div> <cite>Marc Matsumoto</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/recipes/classic-ratatouille/#comment-3148664447'>Re: Classic Ratatouille</a><div class="rssSummary">Just what I was looking for. Thanks!</div> <cite>John Manship</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/the-history-kitchen/history-of-sushi/#comment-3148454522'>Re: Discover the History of Sushi</a><div class="rssSummary">Very interesting article!</div> <cite>buyingseafood</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/the-history-kitchen/10-edible-aphrodisiacs/#comment-3148445015'>Re: Learn Why These 10 Foods Are Edible Aphrodisiacs</a><div class="rssSummary">How can you have an article on aphrodisiacs and not have oysters?</div> <cite>buyingseafood</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/myth-sushi-grade/#comment-3148400452'>Re: The Myth of Sushi-Grade</a><div class="rssSummary">How can I determine a safe piece of fish for sushi or find a reliable local market?</div> <cite>Crazyforsushi</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/fresh-tastes/beef-broccoli-yakiudon-stirfry-makes-easy-delicious-meal/#comment-3148194472'>Re: Beef and Broccoli Yakiudon Stirfry Makes an Easy, Delicious Meal</a><div class="rssSummary">I don&#039;t have sake. Can I substitute it with white wine or do you have another suggestion? Thanks!!</div> <cite>Jen</cite></li><li><a class='rsswidget' href='http://www.pbs.org/food/?post_type=food_features&#038;p=33543#comment-3148119853'>Re: The Mind of a Chef: Contact Us</a><div class="rssSummary">Where can I find all 14 episodes of Season 5? I have checked on Amazon, Apple, and Google, and none of them offer more than 8. Thanks.</div> <cite>Ross Daniels</cite></li></ul>	
 </div>
 
 
@@ -665,8 +651,8 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://www.pbs.org/food/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.63'></script>
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201704'></script>
-<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Janaa'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201706'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Febaa'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -674,11 +660,11 @@ var WPGroHo = {"my_hash":""};
 </script>
 <script type='text/javascript' src='http://www.pbs.org/food/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9'></script>
 
-	<script src="http://stats.wordpress.com/e-201704.js" type="text/javascript"></script>
+	<script src="http://stats.wordpress.com/e-201706.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:2.9.3',blog:'51810532',post:'34245',tz:'-5'});
 	var load_cmc = function(){linktracker_init(51810532,34245,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
-	</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"646c3c011e","applicationID":"31019523","transactionName":"Z1NQZEtSCEcAVEQPWF4Zc1NNWglaTkRZCFBcUw==","queueTime":0,"applicationTime":177,"atts":"SxRTEgNIG0k=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+	</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"646c3c011e","applicationID":"31019523","transactionName":"Z1NQZEtSCEcAVEQPWF4Zc1NNWglaTkRZCFBcUw==","queueTime":0,"applicationTime":596,"atts":"SxRTEgNIG0k=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
