@@ -1,0 +1,546 @@
+http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<title>Meyer Lemon-Ginger Marmalade Recipe</title><meta name="keywords" content="Meyer Lemon-Ginger Marmalade Recipe, Meyer Lemon Recipes, Jam Recipes" />
+		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="One Hundred Dollars a Month &raquo; Feed" href="http://feeds.feedblitz.com/onehundreddollarsamonth" />
+<link rel="alternate" type="application/rss+xml" title="One Hundred Dollars a Month &raquo; Comments Feed" href="http://www.onehundreddollarsamonth.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="One Hundred Dollars a Month &raquo; Meyer Lemon-Ginger Marmalade Recipe Comments Feed" href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/feed/" />
+<link rel="canonical" href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.onehundreddollarsamonth.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pinterest-pin-it-button-pro-plugin-styles-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pin-it-button-pro/css/public.css?ver=3.2.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pinterest-pin-it-button-pro-public-styles-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pin-it-button-pro/css/public-pro.css?ver=3.2.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lifestyle-pro-theme-css'  href='http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle-pro/style.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pinterest-pinboard-widget-style-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pinboard-widget/style.css?v=1&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.onehundreddollarsamonth.com/wp-includes/css/dashicons.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700&#038;ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://www.onehundreddollarsamonth.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all' />
+<style id='A2A_SHARE_SAVE-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<style type="text/css">
+a.pib-hover-btn-link, .pib-img-under-wrapper a[href*="pinterest"].pib-hover-btn-link {
+    background-image: url("http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pin-it-button-pro//assets/pin-it-buttons/set01/b04.png") !important;
+    width: 58px !important;
+    height: 27px !important;
+}
+.pib-sharebar li { width: 105px; }
+</style><script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<link rel='https://api.w.org/' href='http://www.onehundreddollarsamonth.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.onehundreddollarsamonth.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="http://www.onehundreddollarsamonth.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.onehundreddollarsamonth.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&#038;format=xml" />
+
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js" async="async"></script>
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<link rel="icon" href="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle-pro/images/favicon.ico" />
+<link rel="pingback" href="http://www.onehundreddollarsamonth.com/xmlrpc.php" />
+<link href='https://fonts.googleapis.com/css?family=Arbutus+Slab|Roboto:400,700' rel='stylesheet' type='text/css'><style type="text/css">.site-title a { background: url(http://www.onehundreddollarsamonth.com/wp-content/uploads/2015/12/cropped-OHAM-2016-1.png) no-repeat !important; }</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33309197-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #ad1018 !important; border-radius: 25px; color: #fffcfc !important; border: 0px #ffffff solid !important; font-size: 16px; padding: 8px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #a5a5a3 !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #a5a5a3 !important; }</style><meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" />
+<meta property="og:title" content="Meyer Lemon-Ginger Marmalade Recipe" />
+<meta property="og:image" content="http://www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg" />
+<meta property="og:site_name" content="One Hundred Dollars a Month" />
+<meta property="fb:app_id" content="253042638131492" />
+<meta property="og:description" content="I spotted this recipe on the Williams Sonoma website, and I have to admit, they had me at Meyer Lemon. I mean really, what's not to love about Meyer Lemons? Here's the recipe. I hope you like it as much as I do. Ingredients 2 lbs. Meyer lemons 8 cups Sugar..." />
+<meta property="og:locale" content="en_US" />
+</head>
+<body class="post-template-default single single-post postid-63566 single-format-standard custom-header header-image header-full-width content-sidebar" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><div id="searchsocial">
+<section id="simple-social-icons-2" class="widget simple-social-icons">
+<div class="widget-wrap">
+<ul class="alignright">
+<li class="social-email">
+<a href="http://www.onehundreddollarsamonth.com/contact/" target="_blank">
+<svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a>
+</li>
+<li class="social-facebook">
+<a href="http://www.facebook.com/pages/One-Hundred-Dollars-A-Month/217220608312147" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a>
+</li>
+<li class="social-instagram">
+<a href="http://instagram.com/mavisbutterfield" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a>
+</li>
+<li class="social-pinterest">
+<a href="http://pinterest.com/100dollars/" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a>
+</li>
+<li class="social-rss">
+<a href="http://feeds.feedblitz.com/onehundreddollarsamonth" target="_blank"><svg role="img" class="social-rss" aria-labelledby="social-rss"><title id="social-rss">RSS</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a>
+</li>
+<li class="social-twitter">
+<a href="https://twitter.com/#!/Mavis100Dollars" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a>
+</li>
+<li class="social-youtube">
+<a href="http://www.youtube.com/user/MavisGardenBlog?feature=watch" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a>
+</li>
+<li><form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.onehundreddollarsamonth.com/" role="search">
+<meta itemprop="target" content="http://www.onehundreddollarsamonth.com/?s={s}"/>
+<input itemprop="query-input" type="search" name="s" placeholder="Search this website …"/>
+<input type="hidden" value="Search"/>
+</form></li>
+</ul>
+</div>
+<div id="mavis"><a href="http://www.onehundreddollarsamonth.com/"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2015/12/Mavis.png"></a></div>
+</section>
+</div><header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.onehundreddollarsamonth.com/">One Hundred Dollars a Month</a></p><p class="site-description" itemprop="description">how I feed my family on $100 a month</p></div></div></header><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-primary" class="menu genesis-nav-menu menu-primary"><li id="menu-item-156844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156844"><a href="http://www.onehundreddollarsamonth.com/who-is-mavis/" itemprop="url"><span itemprop="name">ABOUT</span></a></li>
+<li id="menu-item-157192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157192"><a href="http://www.onehundreddollarsamonth.com/recipe-list-archive/" itemprop="url"><span itemprop="name">RECIPES</span></a></li>
+<li id="menu-item-156898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156898"><a href="http://www.onehundreddollarsamonth.com/category/money-saving-tips-2/" itemprop="url"><span itemprop="name">MONEY SAVING</span></a></li>
+<li id="menu-item-156867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156867"><a href="http://www.onehundreddollarsamonth.com/category/garden-blog/" itemprop="url"><span itemprop="name">GARDEN</span></a></li>
+<li id="menu-item-156848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156848"><a href="http://www.onehundreddollarsamonth.com/category/online-deals/" itemprop="url"><span itemprop="name">DAILY DEALS</span></a></li>
+<li id="menu-item-156849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156849"><a href="http://www.onehundreddollarsamonth.com/category/arts-crafts/" itemprop="url"><span itemprop="name">CRAFTS</span></a></li>
+<li id="menu-item-156850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156850"><a href="http://www.onehundreddollarsamonth.com/contact/" itemprop="url"><span itemprop="name">CONTACT</span></a></li>
+<li id="menu-item-156851" class="shop menu-item menu-item-type-post_type menu-item-object-page menu-item-156851"><a href="http://www.onehundreddollarsamonth.com/shop/" itemprop="url"><span itemprop="name">SHOP</span></a></li>
+</ul></div></nav><nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-secondary" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-156857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156857"><a href="http://www.onehundreddollarsamonth.com/category/personal-saving-stories/" itemprop="url"><span itemprop="name">Share How You Save</span></a></li>
+<li id="menu-item-156853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156853"><a href="http://www.onehundreddollarsamonth.com/category/the-2020-challenge/" itemprop="url"><span itemprop="name">Show Off Your Pantry</span></a></li>
+<li id="menu-item-156854" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156854"><a href="http://www.onehundreddollarsamonth.com/category/mavis-mail/" itemprop="url"><span itemprop="name">Share Your Garden Photos</span></a></li>
+<li id="menu-item-156855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156855"><a href="http://www.onehundreddollarsamonth.com/category/trash-or-treasure/" itemprop="url"><span itemprop="name">Show Your Trash or Treasure</span></a></li>
+<li id="menu-item-156859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156859"><a href="http://www.amazon.com/Mavis-Butterfield/e/B018US9UQS/ref=as_li_ss_tl?_encoding=UTF8&#038;camp=1789&#038;creative=390957&#038;linkCode=ur2&#038;linkId=BUPFE4EX4G7MIECZ&#038;qid=1450020893&#038;sr=8-1&#038;tag=100dollarsamo-20&#038;linkId=CRLV354FIJ2GGSPU" itemprop="url"><span itemprop="name">eBooks</span></a></li>
+<li id="menu-item-156856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156856"><a target="_blank" href="http://digforyourdinner.com/" itemprop="url"><span itemprop="name">Dig For Your Dinner</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div id="home-leader" align="center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header Ad - Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2773847423497796"
+     data-ad-slot="5244174405"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<article class="post-63566 post type-post status-publish format-standard category-canning-101 category-recipe tag-canning tag-canning-101-2 tag-canning-recipes tag-lemon tag-meyer-lemon-ginger-marmalade-recipe tag-recipes entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Meyer Lemon-Ginger Marmalade Recipe</h1> 
+<p class="entry-meta">The links in the post below may be affiliate links. Read the <a target="_blank" href="http://www.onehundreddollarsamonth.com/dffgdfg/">full disclosure</a><br /><b>By <span class="entry-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="entry-author-name" itemprop="name">Mavis Butterfield</span></span> on <time class="entry-time" itemprop="datePublished" datetime="2014-02-06T18:20:26+00:00">February 6, 2014</time> · <span class="entry-comments-link"><a href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/#comments">3 Comments</a></span> </b></p></header><div class="entry-content" itemprop="text"><p><a href="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg"><img class="aligncenter size-full wp-image-73196 pib-hover-img" alt="Meyer Lemon-Ginger Marmalade Recipe" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg?resize=550%2C369" srcset="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg?w=550 550w, https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg?resize=300%2C201 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe2.jpg?resize=550%2C369" data-recalc-dims="1" /></a>I spotted this recipe on the <a href="http://www.williams-sonoma.com/recipe/meyer-lemon-ginger-marmalade.html?cm_src=RECIPESEARCH" target="_blank"><strong>Williams Sonoma website</strong></a>, and I have to admit, they had me at Meyer Lemon. I mean really, what&#8217;s not to love about Meyer Lemons?</p>
+<p>Here&#8217;s the recipe. I hope you like it as much as I do.</p>
+<p><strong><a href="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon-slices.jpg"><img class="aligncenter size-full wp-image-73192 pib-hover-img" alt="lemon slices" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon-slices.jpg?resize=550%2C367" srcset="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon-slices.jpg?w=550 550w, https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon-slices.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon-slices.jpg?resize=550%2C367" data-recalc-dims="1" /></a>Ingredients</strong></p>
+<p>2 lbs. Meyer lemons<br />
+8 cups Sugar<br />
+2 cups Fresh lemon juice<br />
+1 tbsp. Peeled and grated ginger<br />
+1 tbsp. Finely chopped crystallized ginger</p>
+<p><strong><a href="https://i2.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon.jpg"><img class="aligncenter size-full wp-image-73193 pib-hover-img" alt="lemon" src="https://i2.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon.jpg?resize=550%2C367" srcset="https://i2.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon.jpg?w=550 550w, https://i2.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i2.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/lemon.jpg?resize=550%2C367" data-recalc-dims="1" /></a>Directions</strong></p>
+<p>Bring a boiling-water canner, 3/4 full with water, to simmer. Wash jars and screw bands in hot soapy water; rinse with warm water. Pour boiling water over flat lids in saucepan off the heat. Let stand in hot water until ready to use. Drain well before filling.</p>
+<p><a href="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe.jpg"><img class="aligncenter size-full wp-image-73194 pib-hover-img" alt="Meyer Lemon-Ginger Marmalade Recipe" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe.jpg?resize=550%2C367" srcset="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe.jpg?w=550 550w, https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe.jpg?resize=550%2C367" data-recalc-dims="1" /></a>Cut the ends off of all of the lemons.  Slice the lemons as thin as possible.  Place the lemon slices in a large saucepan and add 8 cups of water.  Bring to a boil over medium-high heat.  Allow to cook for 15 minutes, stirring frequently.  Remove from the heat.</p>
+<p><a href="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe1.jpg"><img class="aligncenter size-full wp-image-73195 pib-hover-img" alt="Meyer Lemon-Ginger Marmalade Recipe" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe1.jpg?resize=550%2C367" srcset="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe1.jpg?w=550 550w, https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe1.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe1.jpg?resize=550%2C367" data-recalc-dims="1" /></a>Measure the lemon slices and their liquid in a quart sized measuring cup.  Note the amount and then return to the pan.  For each cup of water/lemon mixture, add 1-1/4 cups sugar to the saucepan. Stir in the lemon juice.  Bring mixture to a bowl over medium heat.  Allow to boil for 10 minutes.</p>
+<p>Add the fresh ginger and continue to boil, until mixture thickens, about 10-15 minutes.  Stir in the crystallized ginger.</p>
+<p><a href="https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe3.jpg"><img class="aligncenter size-full wp-image-73197 pib-hover-img" alt="Meyer Lemon-Ginger Marmalade Recipe" src="https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe3.jpg?resize=550%2C369" srcset="https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe3.jpg?w=550 550w, https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe3.jpg?resize=300%2C201 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/Meyer-Lemon-Ginger-Marmalade-Recipe3.jpg?resize=550%2C369" data-recalc-dims="1" /></a>Ladle  the marmalade immediately into prepared jars, filling to within 1/2 inch of tops.  Wipe jar rims and threads. Cover with two-piece lids {I used <a href="http://www.amazon.com/gp/product/B009173SM0/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B009173SM0&amp;linkCode=as2&amp;tag=100dollarsamo-20" target="_blank"><strong>Weck jars</strong></a>} and screw bands on. Place jars on elevated rack in a canner. Lower rack into canner. {Water must cover jars by 1 to 2 inches. Add boiling water, if necessary.} Cover; bring water to gentle boil. Process for 10 min. Remove jars and place upright on towel to cool completely. After the jars have cooled, check the seals by pressing middles of lids with finger. If lids spring back, lids are not sealed and refrigeration is necessary.</p>
+<p style="text-align: center;"><a href="http://www.onehundreddollarsamonth.com/category/canning-101/"><img class="alignnone size-full wp-image-56187 aligncenter pib-hover-img" alt="jam recipes" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/08/jam-recipes.jpg?resize=550%2C405" srcset="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/08/jam-recipes.jpg?w=550 550w, https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/08/jam-recipes.jpg?resize=300%2C221 300w" sizes="(max-width: 550px) 100vw, 550px" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-recalc-dims="1" /></a></p>
+<p>Looking for a few more canning recipes?  Search my<a href="http://www.onehundreddollarsamonth.com/canning-index/" target="_blank"> <strong>Full List of Canning Recipes</strong></a></p>
+<p><a href="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/williams-sonoma-art-of-preserving.jpg"><img class="size-full wp-image-63572 aligncenter pib-hover-img" alt="williams sonoma art of preserving" src="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/williams-sonoma-art-of-preserving.jpg?resize=254%2C300" data-pin-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-pin-media="https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2013/11/williams-sonoma-art-of-preserving.jpg?resize=254%2C300" data-recalc-dims="1" /></a></p>
+<p style="text-align: center;"><a href="http://www.amazon.com/The-Preserving-Williams-Sonoma-Rick-Field/dp/1740899784/ref=sr_1_1?ie=UTF8&amp;qid=1384882852&amp;sr=8-1&amp;keywords=williams+sonoma+art+of+preserving" target="_blank"><strong>The Art of Preserving {Williams-Sonoma}</strong></a></p>
+<p>&nbsp;</p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/" data-a2a-title="Meyer Lemon-Ginger Marmalade Recipe"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_button_printfriendly" href="http://www.addtoany.com/add_to/printfriendly?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="PrintFriendly" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div><div class="pin-it-btn-wrapper"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&media=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fwp-content%2Fuploads%2F2013%2F11%2FMeyer-Lemon-Ginger-Marmalade-Recipe2.jpg&description=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" data-pin-do="buttonBookmark" data-pin-config="none" data-pin-height="28" data-pin-color="red"   rel="nobox"><img src="https://i0.wp.com/assets.pinterest.com/images/pidgets/pin_it_button.png" title="Pin It" data-pib-button="true" data-recalc-dims="1" /></a></div><!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/"
+    dc:identifier="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/"
+    dc:title="Meyer Lemon-Ginger Marmalade Recipe"
+    trackback:ping="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/trackback/" />
+</rdf:RDF>-->
+<div id="disclosure" ><p><small><i>This post may contain affiliate links. These affiliate links help support this site. For more information, please see my <a href="http://www.onehundreddollarsamonth.com/dffgdfg/">disclosure policy</a>. Thank you for supporting One Hundred Dollars a Month.</i></small></p></div></div><footer class="entry-footer"><div id="more-from-cat" align="center">Read More Posts About <a href="http://www.onehundreddollarsamonth.com/category/recipe/canning-101/">Canning 101</a></div>
+<br />
+<div align="center">
+<br /><br />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- After Post - Rect -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2773847423497796"
+     data-ad-slot="2779444008"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div style="clear: both"></div><div style="border: 0pt none ; margin: 0pt; padding: 0pt;"><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.onehundreddollarsamonth.com/easy-crock-pot-recipes-italian-chicken-pasta-soup/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.onehundreddollarsamonth.com/wp-content/uploads/2012/10/Easy-Crock-Pot-Recipes-Italian-Chicken-Pasta-Soup-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Easy Crock Pot Recipes - Italian Chicken Pasta Soup</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.onehundreddollarsamonth.com/sesame-garlic-broccoli/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.onehundreddollarsamonth.com/wp-content/uploads/2013/05/Sesame-Garlic-Broccoli-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">Sesame Garlic Broccoli</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.onehundreddollarsamonth.com/how-to-use-weck-canning-jars/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.onehundreddollarsamonth.com/wp-content/uploads/2014/07/How-to-Use-Weck-Canning-Jars-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">How to Use Weck Canning Jars</div></div></a><a onmouseout="this.style.backgroundColor='#FFFFFF'" onmouseover="this.style.backgroundColor='#EEEEEF'" style="background-color: #FFFFFF; border-right: 1px solid #DDDDDD; border-bottom: medium none; margin: 0pt; padding: 6px; display: block; float: left; text-decoration: none; text-align: left; cursor: pointer;" href="http://www.onehundreddollarsamonth.com/the-best-chocolate-chip-cookies-on-earth/"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; width: 150px; height: 225px;"><div style="border: 0pt none ; margin: 0pt; padding: 0pt; background: transparent url(http://www.onehundreddollarsamonth.com/wp-content/uploads/2016/01/chocolate-chip-cookies-150x150.jpg) no-repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 150px; height: 150px;"></div><div style="border: 0pt none; margin: 3px 0pt 0pt; padding: 0pt; font-family: ; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; color: #333333;">The Best Chocolate Chip Cookies on Earth</div></div></a></div><div style="clear: both"></div></footer></article><div class="after-entry widget-area"><section id="enews-ext-2" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><p>Want to get more of this awesome goodness?  Sign up here for the newsletter!</p>
+			<form id="subscribeenews-ext-2" action="http://www.feedblitz.com/f/f.fbz?AddNewUserDirect" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'First Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-2">
+												<label for="subbox" class="screenread">E-Mail Address</label><input type="email" value="" id="subbox" placeholder="E-Mail Address" name="EMAIL" required="required" />
+				<input name="EMAIL_" maxlength="64" type="hidden" size="25" value=""><input name="EMAIL_ADDRESS" maxlength="64" type="hidden" size="25" value=""><input name="FEEDID" type="hidden" value="860429"><input name="PUBLISHER" type="hidden" value="29584741">				<input type="submit" value="Go" id="subbutton" />
+			</form>
+		</div></div></section>
+</div><div class="entry-comments" id="comments"><h3>Comments</h3><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-1018519">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<span itemprop="name">Mary Ann White</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2014-02-25T17:12:05+00:00" itemprop="datePublished"><a href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/#comment-1018519" class="comment-time-link" itemprop="url">February 25, 2014 at 5:12 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I am signing up to win a case of Thin Mints Girl Scout Cookies.  If I win the case I will go down to the Salvation Army and give a box to people who work there until I run out of cookies.  They work so hard helping others and I think they would enjoy a tangible reward.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/?replytocom=1018519#respond' onclick='return addComment.moveForm( "comment-1018519", "1018519", "respond", "63566" )' aria-label='Reply to Mary Ann White'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-3315756">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<span itemprop="name">Anna</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-29T14:18:13+00:00" itemprop="datePublished"><a href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/#comment-3315756" class="comment-time-link" itemprop="url">December 29, 2016 at 2:18 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>I make jams and marmalade&#8217;s using Pomona&#8217;s pectin. The recipe you have here takes 8 cups of sugar, that&#8217;s awful. I just made 7 pints of Orange Marmalade using only 1 cup of honey, it tastes fresh and you can taste the fruit not an overpowering sweet. ~These days people are becoming aware that cancer loves sugar and sugar will put pounds on our bodies. Lots of us are doing our best to cut down on sugar, especially the white processed sugar. I hope you will give it a try, it is a much healthier way to make jams and Marmalade&#8217;s.<br />
+~ I am aware that you may not know that there is a better way. I first bought the Pomona&#8217;s Pectin from a health food store, I then found it in bulk at Azure Standard in Oregon. All the best and I Hope You Will Have a Happy, Healthy New Year. ~A.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/?replytocom=3315756#respond' onclick='return addComment.moveForm( "comment-3315756", "3315756", "respond", "63566" )' aria-label='Reply to Anna'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-3315763">
+	<article itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<span itemprop="name">Anna</span> <span class="says">says</span>			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-12-29T14:58:43+00:00" itemprop="datePublished"><a href="http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/#comment-3315763" class="comment-time-link" itemprop="url">December 29, 2016 at 2:58 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>This is Anna, I need to make a correction on the post I just wrote. I used 1 cup honey in 7  half pint jars not pint jars. It is plenty sweet &amp; I love tasting the oranges. ~A.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='http://www.onehundreddollarsamonth.com/meyer-lemon-ginger-marmalade-recipe/?replytocom=3315763#respond' onclick='return addComment.moveForm( "comment-3315763", "3315763", "respond", "63566" )' aria-label='Reply to Anna'>Reply</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ol></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/meyer-lemon-ginger-marmalade-recipe/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.onehundreddollarsamonth.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='63566' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d873929115" /></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="69"/></p>			</form>
+			</div><!-- #respond -->
+	</main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar"><section id="text-91" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2015/04/subscribe-box.jpg"/>
+</div>
+<div style="position:absolute; margin-top:-5em; margin-left:1em;">
+<form name="FeedBlitz_1eee3faac34d11e294420019998b9c3f" style="display:inline" method="POST" action="http://www.feedblitz.com/f/f.fbz?AddNewUserDirect"> <input style="display:none" name="EMAIL" maxlength="64" type="text" size="25" value="" placeholder="enter your email"><input name="EMAIL_" maxlength="64" type="hidden" size="25" value=""><input name="EMAIL_ADDRESS" maxlength="64" type="hidden" size="25" value=""><input name="FEEDID" type="hidden" value="860429"><input name="PUBLISHER" type="hidden" value="29584741"></form><script language="Javascript">function FeedBlitz_1eee3faac34d11e294420019998b9c3fi(){var x=document.getElementsByName('FeedBlitz_1eee3faac34d11e294420019998b9c3f');for(i=0;i<x.length;i++){x[i].EMAIL.style.display='inline'; x[i].action='http://www.feedblitz.com/f/f.fbz?AddNewUserDirect';}} function FeedBlitz_1eee3faac34d11e294420019998b9c3fs(v){v.submit();}FeedBlitz_1eee3faac34d11e294420019998b9c3fi();</script>
+</div></div>
+		</div></section>
+<section id="text-40" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2773847423497796";
+/* cooking */
+google_ad_slot = "2395861560";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></section>
+<section id="text-81" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Mavis&#8217; Daily Deals</h4>
+			<div class="textwidget"><img src="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Cat-Daily-Deals.png" alt="Daily Deals Mavis" width="307" height="311" border="0" usemap="#MapDailyDeals" />
+<map name="MapDailyDeals" id="MapDailyDeals">
+  <area shape="rect" coords="3,4,304,47" href="http://www.onehundreddollarsamonth.com/category/mornings-with-mavis/" alt="Mornings with Mavis" />
+  <area shape="rect" coords="3,48,306,90" href="http://www.amazon.com/gp/goldbox/?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=100dollarsamo-20" target="_blank" alt="Amazon Deals of the Day" />
+  <area shape="rect" coords="5,91,303,135" href="http://strk.enlnks.com/aff_c?offer_id=118&amp;aff_id=6044" target="_blank" alt="Hot Printable Coupons" />
+  <area shape="rect" coords="4,136,303,177" href="http://www.onehundreddollarsamonth.com/coupon-database/" alt="Coupon Database" />
+  <area shape="rect" coords="4,179,304,224" href="http://www.groupon.com//raf/UserReferral_rp/121015/10r1act/lk/uu11986561" target="_blank" alt="Groupon Deals" />
+  <area shape="rect" coords="4,224,304,266" href= "http://www.anrdoezrs.net/links/5562251/type/dlg/https://www.livingsocial.com/"alt="Living Social Deals" />
+  <area shape="rect" coords="3,266,303,308" href="http://www.sundaycouponpreview.com/" alt="Sunday Coupon Preview" />
+</map></div>
+		</div></section>
+<section id="text-97" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">A Few of My Favorite Things</h4>
+			<div class="textwidget"><a rel="nofollow" href="http://www.amazon.com/gp/product/B004DDAY7E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004DDAY7E&linkCode=as2&tag=100dollarsamo-20&linkId=YDLOQILTYLBV6KGP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004DDAY7E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B004DDAY7E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B008CO8BG6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008CO8BG6&linkCode=as2&tag=100dollarsamo-20&linkId=JYRAXPBZ3EATVBTD"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008CO8BG6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B008CO8BG6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B000VJRP0S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000VJRP0S&linkCode=as2&tag=100dollarsamo-20&linkId=TO7OE3ROIDHWX3ZO"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000VJRP0S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B000VJRP0S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B003XT8HUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003XT8HUK&linkCode=as2&tag=100dollarsamo-20&linkId=G3HC7SMUJARV7MP5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003XT8HUK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B003XT8HUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DEPGY7G/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DEPGY7G&linkCode=as2&tag=100dollarsamo-20&linkId=764QOBCIC24AH6YF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DEPGY7G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B00DEPGY7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00JAFXIXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JAFXIXC&linkCode=as2&tag=100dollarsamo-20&linkId=QOM36OOM3BF64IO3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JAFXIXC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B00JAFXIXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B0018MQHO2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0018MQHO2&linkCode=as2&tag=100dollarsamo-20&linkId=IP4F76MLVIE2HWFZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0018MQHO2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B0018MQHO2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B012FVPBJQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B012FVPBJQ&linkCode=as2&tag=100dollarsamo-20&linkId=KBBIYPCSKMUFYBCM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B012FVPBJQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B012FVPBJQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00U0I25AK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00U0I25AK&linkCode=as2&tag=100dollarsamo-20&linkId=44IW3R627MVYXFXY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00U0I25AK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B00U0I25AK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q4TM92I/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00Q4TM92I&linkCode=as2&tag=monkeyboy01-20&linkId=FF7EMIZRA2S4CGNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q4TM92I&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B00Q4TM92I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00C0T1NYG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00C0T1NYG&linkCode=as2&tag=monkeyboy01-20&linkId=KUA2K6U47SVV37NH"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C0T1NYG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B00C0T1NYG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B0002FGY9O/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0002FGY9O&linkCode=as2&tag=100dollarsamo-20&linkId=KE5NKGQLBE7PS3JS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002FGY9O&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=100dollarsamo-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=100dollarsamo-20&l=as2&o=1&a=B0002FGY9O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B000F70R9C/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000F70R9C&linkCode=as2&tag=monkeyboy01-20&linkId=UIA2WKYNLWDPJP6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000F70R9C&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B000F70R9C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00EI3Q4S2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EI3Q4S2&linkCode=as2&tag=monkeyboy01-20&linkId=UNFGHTAZDLTQAL44"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EI3Q4S2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B00EI3Q4S2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00267LS2E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00267LS2E&linkCode=as2&tag=monkeyboy01-20&linkId=AQDKHHJW5DRESETL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00267LS2E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B00267LS2E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B0001XLSGQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0001XLSGQ&linkCode=as2&tag=monkeyboy01-20&linkId=BMQPPI6APOBQRU5A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0001XLSGQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=monkeyboy01-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=monkeyboy01-20&l=as2&o=1&a=B0001XLSGQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
+		</div></section>
+<section id="text-82" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Mavis&#8217; Favorite Recipes</h4>
+			<div class="textwidget"><img src="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Cat-Fav-Recipes.png" alt="Favorite Recipes" width="307" height="311" border="0" usemap="#MapFavRecipes" />
+<map name="MapFavRecipes" id="MapFavRecipes">
+  <area shape="rect" coords="4,3,303,48" href="http://www.onehundreddollarsamonth.com/tag/easy-crock-pot-meals/" alt="Crock Pot Meals" />
+  <area shape="rect" coords="4,47,306,89" href="http://www.onehundreddollarsamonth.com/category/recipe/freezer-meals/" alt="Freezer Meals" />
+  <area shape="rect" coords="3,91,306,133" href="http://www.onehundreddollarsamonth.com/category/canning-101/" alt="Home Canning" />
+  <area shape="rect" coords="3,135,304,176" href="http://www.onehundreddollarsamonth.com/tag/main-dish-recipes/" alt="" />
+  <area shape="rect" coords="4,178,302,221" href="http://www.onehundreddollarsamonth.com/category/recipe/salads-sides/" alt="Salad and Sides" />
+  <area shape="rect" coords="0,222,302,263" href="http://www.onehundreddollarsamonth.com/category/recipe/desserts-recipe/" alt="desserts" />
+  <area shape="rect" coords="4,266,302,307" href="http://www.onehundreddollarsamonth.com/recipe-index/" alt="Recipe Index" />
+</map></div>
+		</div></section>
+<section id="text-98" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">My Favorite Gardening Books</h4>
+			<div class="textwidget"><a rel="nofollow" href="http://www.amazon.com/gp/product/0143117289/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143117289&linkCode=as2&tag=birdgirl-20&linkId=HDM7634VCPB4YFWJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0143117289&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=0143117289" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/0060852569/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060852569&linkCode=as2&tag=birdgirl-20&linkId=3W2DILXMDO3OICOO"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0060852569&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=0060852569" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1416551611/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1416551611&linkCode=as2&tag=birdgirl-20&linkId=RP6WKYMDXMMO3PR3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1416551611&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1416551611" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/0805209700/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0805209700&linkCode=as2&tag=birdgirl-20&linkId=YL245BKXZNL6H4CV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0805209700&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=0805209700" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1570618402/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1570618402&linkCode=as2&tag=birdgirl-20&linkId=E2WUQV2KUUJOOCMW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1570618402&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1570618402" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1555917488/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1555917488&linkCode=as2&tag=birdgirl-20&linkId=ORCNYDCJ4VBQ3CS7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1555917488&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1555917488" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1604691247/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1604691247&linkCode=as2&tag=birdgirl-20&linkId=LCGWJMDW5OFEOHVC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1604691247&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1604691247" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1604695471/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1604695471&linkCode=as2&tag=birdgirl-20&linkId=UCNQX6RP5X7GXFII"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1604695471&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1604695471" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1604693177/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1604693177&linkCode=as2&tag=birdgirl-20&linkId=WVVFEH5UVHZ4L56A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1604693177&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1604693177" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1609619595/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1609619595&linkCode=as2&tag=birdgirl-20&linkId=COJGOHCCFQU3UFKB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1609619595&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1609619595" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1565237102/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1565237102&linkCode=as2&tag=birdgirl-20&linkId=O43DZJIVUS3ZGWBX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1565237102&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1565237102" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1612122086/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1612122086&linkCode=as2&tag=birdgirl-20&linkId=TG5IWVILWERP3GA4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1612122086&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1612122086" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/161212061X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=161212061X&linkCode=as2&tag=birdgirl-20&linkId=HU66TETKTGRFRWVY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=161212061X&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=161212061X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1603425683/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1603425683&linkCode=as2&tag=birdgirl-20&linkId=OVFGDGDWHK7JONXG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1603425683&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1603425683" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1603426949/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1603426949&linkCode=as2&tag=birdgirl-20&linkId=7KV4RTYY3NGHD2DA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1603426949&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1603426949" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1602399840/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1602399840&linkCode=as2&tag=birdgirl-20&linkId=COREXDFTXTJUUK4G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1602399840&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1602399840" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1591865484/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1591865484&linkCode=as2&tag=birdgirl-20&linkId=TOEZ5IXRFJ7VMBKG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1591865484&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1591865484" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1580170277/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1580170277&linkCode=as2&tag=birdgirl-20&linkId=KNTQZJ77BNTJT4XN"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1580170277&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1580170277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1580173705/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1580173705&linkCode=as2&tag=birdgirl-20&linkId=VSHD4TAYYAWJU2MY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1580173705&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=birdgirl-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=birdgirl-20&l=as2&o=1&a=1580173705" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+		</div></section>
+<section id="text-83" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Mavis&#8217; Tips &#038; Tricks</h4>
+			<div class="textwidget"><img src="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Cat-Tips-Tricks.png" alt="Tips and Tricks" width="307" height="311" border="0" usemap="#MapTipsTricks" />
+<map name="MapTipsTricks" id="MapTipsTricks">
+  <area shape="rect" coords="4,5,304,46" href="http://www.onehundreddollarsamonth.com/category/bartering-2/" alt="How to Barter" />
+  <area shape="rect" coords="3,45,302,90" href="http://www.onehundreddollarsamonth.com/category/gardening/garden-tips-gardening/" alt="Gardening Tips" />
+  <area shape="rect" coords="3,91,302,134" href="http://www.onehundreddollarsamonth.com/category/frugal-living-2/easy-kitchen-tips-frugal-living-2/" alt="Kitchen Tips" />
+  <area shape="rect" coords="2,134,304,177" href="http://www.onehundreddollarsamonth.com/category/travel/travel-tips/" alt="Travel Tips" />
+  <area shape="rect" coords="2,177,301,221" href="http://www.onehundreddollarsamonth.com/category/money-saving-tips-2/" alt="Money Saving Tips" />
+  <area shape="rect" coords="2,221,302,264" href="http://www.onehundreddollarsamonth.com/category/frugal-living-2/10-cool-uses/" alt="Ten Cool Uses" />
+  <area shape="rect" coords="4,267,303,306" href="http://www.onehundreddollarsamonth.com/category/arts-crafts/" alt="Arts and Crafts" />
+</map></div>
+		</div></section>
+<section id="text-89" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a data-pin-do="embedBoard" href="https://www.pinterest.com/100dollars/gardening/" data-pin-scale-height="550" data-pin-board-width="300">Follow Mavis's board Gardening on Pinterest.</a>
+ 
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script></div>
+		</div></section>
+<section id="text-85" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Favorite Amazon Deals</h4>
+			<div class="textwidget"><img src="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Cat-Amazon-Fav.png" alt="Amazon Deals" width="307" height="311" border="0" usemap="#MapAmazon" />
+<map name="MapAmazon" id="MapAmazon">
+  <area shape="rect" coords="4,3,302,47" href="http://www.amazon.com/movers-and-shakers/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=100dollarsamo-20" target="_blank" alt="Amazon Beals Deals" />
+  <area shape="rect" coords="0,48,303,88" href="http://www.amazon.com/kitchen-dining-small-appliances-cookware/b/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&node=284507&tag=100dollarsamo-20" target="_blank" alt="Amazon Home and Garden" />
+  <area shape="rect" coords="4,89,302,132" href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=&amp;linkCode=ur2&amp;tag=100dollarsamo-20&amp;url=search-alias%3Dgrocery" target="_blank" alt="Amazon Grocery" />
+  <area shape="rect" coords="4,136,304,176" href="http://www.amazon.com/s/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;field-keywords=&amp;linkCode=ur2&amp;tag=100dollarsamo-20&amp;url=search-alias%3Darts-crafts" target="_blank" alt="Amazon Arts and Crafts" />
+  <area shape="rect" coords="2,178,301,219" href="http://www.amazon.com/b/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;node=2231352011&amp;tag=100dollarsamo-20" target="_blank" alt="Amazon Coupons" />
+  <area shape="rect" coords="2,221,304,263" href="http://www.amazon.com/Best-Sellers/zgbs/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;tag=100dollarsamo-20" target="_blank" alt="Amazon Best Sellers" />
+  <area shape="rect" coords="3,267,304,309" href="http://www.amazon.com/b/?_encoding=UTF8&amp;ajr=0&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;node=283155&amp;tag=100dollarsamo-20" target="_blank" alt="Amazon Book Deals" />
+</map></div>
+		</div></section>
+<section id="image-79" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a href="http://www.onehundreddollarsamonth.com/tutorial-hot-water-bath-canning/"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2013/07/Hot-Water-Bath-Canning-Tutorial.jpg?b5c899" class="alignnone" /></a></div>
+</div></section>
+<section id="image-83" class="widget widget_image"><div class="widget-wrap"><h4 class="widget-title widgettitle">What I Learned Living off a 30 Day Emergency Supply of Food</h4>
+<div class="jetpack-image-container"><a href="http://www.onehundreddollarsamonth.com/what-i-learned-living-off-a-30-day-emergency-supply-of-food/"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2015/07/What-I-Learned-Living-off-a-30-Day-Emergency-Supply-of-Food.jpg?b5c899" class="alignnone" width="550" height="426" /></a></div>
+</div></section>
+<section id="image-80" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a href="http://www.onehundreddollarsamonth.com/mavis-mail-send-pictures-of-your-garden-for-a-chance-to-win-a-20-amazon-gift-card/"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2014/03/Send-Pictures-of-Your-Garden-For-a-Chance-to-Win-a-20-Amazon-Gift-Card.jpg" class="alignnone" /></a></div>
+</div></section>
+<section id="image-77" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a href="http://www.onehundreddollarsamonth.com/mavis-in-the-media/"><img src="http://www.onehundreddollarsamonth.com/wp-content/uploads/2013/01/as-seen-on-tv-logo-mavis-butterfield.jpg" class="alignnone" /></a></div>
+</div></section>
+<section id="image-16" class="widget widget_image"><div class="widget-wrap"><div class="jetpack-image-container"><a href="http://www.onehundreddollarsamonth.com/diy-how-to-build-a-potato-tower/"><img src="https://i1.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2012/04/060_opt-1.jpg?w=300" class="alignnone" width="300" height="450" /></a></div>
+</div></section>
+<section id="text-88" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Cast of Characters</h4>
+			<div class="textwidget"><img src="http://www.onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Cast-of-Characters.jpg" alt="Mavis Butterfield" width="310" height="315" border="0" usemap="#MapCharacters" />
+<map name="MapCharacters" id="MapCharacters">
+  <area shape="rect" coords="214,1,310,96" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-andy-the-plant-whisperer/" alt="Andy" />
+  <area shape="rect" coords="108,218,205,315" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-monkey-boy/" alt="Monkey Boy" />
+  <area shape="rect" coords="105,1,202,97" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-ryan-my-online-horticulturist-boyfriend/" alt="Ryan" />
+  <area shape="rect" coords="-2,1,97,98" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-mrs-hillbilly/" alt="Mrs Hillbilly" />
+  <area shape="rect" coords="109,110,205,207" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-lucy-the-puggle-dog/" alt="Puggle" />
+  <area shape="rect" coords="215,111,310,206" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-girly-girl/" alt="Girly Girl" />
+  <area shape="rect" coords="0,110,98,207" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-francisco/" alt="Francisco" />
+  <area shape="rect" coords="215,219,313,321" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-the-girl-who-thinks-shes-a-bird/" alt="Bird" />
+  <area shape="rect" coords="1,217,98,313" href="http://www.onehundreddollarsamonth.com/cast-of-characters-meet-the-handsome-husband/" alt="handsome husband" />
+</map></div>
+		</div></section>
+<section id="text-96" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script>
+  (function() {
+    var cx = 'partner-pub-2773847423497796:6934389902';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only></div>
+		</div></section>
+<section id="text-99" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><meta name="fo-verify" content="ace2f20b-8b36-4a9e-9720-5f31b918bdc4"></div>
+		</div></section>
+<section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><ul class="alignright"><li class="ssi-email"><a href="http://www.onehundreddollarsamonth.com/contact/" target="_blank"><svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="http://www.facebook.com/pages/One-Hundred-Dollars-A-Month/217220608312147" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="http://instagram.com/mavisbutterfield" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://pinterest.com/100dollars/" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="http://feeds.feedblitz.com/onehundreddollarsamonth" target="_blank"><svg role="img" class="social-rss" aria-labelledby="social-rss"><title id="social-rss">RSS</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/#!/Mavis100Dollars" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="http://www.youtube.com/user/MavisGardenBlog?feature=watch" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="http://www.onehundreddollarsamonth.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="text-100" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><link href="http://assets.feedblitz.com/js/tinybox2/style.css" rel="stylesheet" type="text/css"><script src="http://www.feedblitz.com/js/tinybox2/tinybox.js" type="text/javascript"></script><style>.tinner {padding:0; -moz-border-radius:0; border-radius:0;background:transparent;border:0}</style><div id="F3584_popup" style="display:none"><div style="display:none"><script src="http://www.feedblitz.com/js/fbz_formscripts.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="http://www.feedblitz.com/fbz_formbase.css"><script src="http://www.feedblitz.com/js/fbz_formopts.js" type="text/javascript"></script></div><style>
+#F3584 img {max-width:100%}
+.F3584_fbz_table {border:0;margin:0;border-collapse:separate;table-layout:auto;}
+.F3584_fbz_page {margin:0;padding:0;background-color:#FFFFFF;}
+.F3584_fbz_smartform td {display:table-cell;}
+.F3584_fbz_row td {padding-top:0.5em;padding-bottom:0.2em;line-height:1.7em;}
+.F3584_fbz_abovelabel, .F3584_fbz_label, .F3584_fbz_div, .F3584_fbz_fieldtext, .F3584_fbz_err {border:0;padding:0.5em;font-size:16px;}
+.F3584_fbz_label, .F3584_fbz_abovelabel {text-align:Default;color:#000000;}
+.F3584_fbz_fieldtext {padding-top:0.7em;padding-bottom:0.7em;color:#000000;}
+.F3584_fbz_title {line-height:1.3em;padding:0.5em;text-align:center;border:0;color:#AD1018;}
+.F3584_fbz_err, .F3584_fbz_invalid {padding:0.5em;margin:0.5em;color:red;border:3px solid red;background-color:rgba(255,255,255,0.5);font-weight:bold;display:none;}
+.F3584_fbz_invalid {color:#F80;border:3px solid #F80;}
+.F3584_fbz_palette, .F3584_fbz_fielddef, .F3584_fbz_input {padding:0.5em;line-height:1.7em;background-color:#FFFFFF;color:#000000 !important;border:1px solid #AAAAAA;border-radius:4px;moz-border-radius:4px;font-size:16px;}
+.F3584_fbz_button {padding:0.5em;line-height:1.7em;background-color:#E0E0E0;background-image: -webkit-gradient(linear, left top, top bottom, from(#E0E0E0), to(#ffffff));background-image: -webkit-linear-gradient(top, #E0E0E0, #ffffff);background-image: -moz-linear-gradient(top, #E0E0E0, #ffffff);background-image: -ms-linear-gradient(top, #E0E0E0, #ffffff);background-image: -o-linear-gradient(top, #E0E0E0, #ffffff);background-image: linear-gradient(top, #E0E0E0, #ffffff);color:#000000 !important;border:1px solid #AAAAAA;border-radius:4px;moz-border-radius:4px;font-size:16px;text-align:center;margin:0.2em;cursor:pointer;}
+.F3584_fbz_button:active {background:#a0a0a0}
+.F3584_fbz_button[disabled=disabled], .F3584_fbz_button:disabled {opacity:0.5;}
+.F3584_fbz_footer {padding:0.5em;line-height:1.7em;color:#000000 !important;font-size:16px;text-align:center;border:0;}
+.F3584_fbz_row:hover {background: rgba(251,248,231,0.5);-o-transition: all 0.1s ease-in-out;-webkit-transition: all 0.1s ease-in-out;-moz-transition: all 0.1s ease-in-out;-ms-transition: all 0.1s ease-in-out;transition: all 0.1s ease-in-out;}
+.F3584_fbz_row_nohover:hover {background:transparent;}
+.F3584_fbz_form {border:4px solid #000000;background-color:#FFFFFF;border-radius:20px;moz-border-radius:20px;padding:0;line-height:1.3em;font-size:16px;}
+.F3584_fbz_form div {font-size:16px;line-height:1.3em;}
+.F3584_fbz_form tbody {border:0;padding:0;margin:0;font-size:16px;}
+.F3584_fbz_form td {border:0;margin:0;font-size:16px;}
+@media only screen and (max-width: 420px) {.F3584_fbz_label{display:none !important;} .F3584_fbz_abovelabel{display:block;} .F3584_fbz_input {width:95%;} .F3584_fbz_tabcell {display:block;}};
+</style>
+<div id="F3584_container" width="100%" align="center"  style="padding:0.5em;clear:both;"><form method="POST" name="F3584" id="F3584" style="display:block;max-width:600px;"  action="https://www.feedblitz.com/f/f.Fbz?Join" >
+<div name="F3584__hh"><input style="display:block" type="text" name="email_" value=""><input style="display:block" type="text" name="email_address" value=""><input style="display:block" type="text" name="_email" value=""><script>var x=document.getElementsByName('F3584');for(i=0;i<x.length;i++){x[i].email_.style.display='none';x[i].email_address.style.display='none';x[i]._email.style.display='none';x[i].action='https://www.feedblitz.com/f/f.Fbz?Join';}var y=document.getElementsByName('F3584__hh');for(i=0;i<y.length;i++){y[i].style.display='none';}fbz_formMetrics(3584);</script><input type="hidden" name="subcf" value="1"><input type="hidden" name="formid" value="F3584"></div>
+<table cellpadding="0" cellspacing="0" border="0" class="F3584_fbz_table" style="table-layout:fixed;max-width:100%"><tr>
+<td class="F3584_fbz_form" >
+<table cellpadding=0 cellspacing=0 border=0 width="100%" class="F3584_fbz_table"  style="table-layout:fixed;max-width:100%"><tr><td class="F3584_fbz_title"  style="border-radius:16px 16px 0 0;moz-border-radius:16px 16px 0 0;padding:0;margin:0;background-image:none;line-height:1px;">
+<img border=0 src="http://users.feedblitz.com/54f5c2c9a203c90329dce2bce8b60ed7/mavis butterfield facebook.jpg"  style="border-radius:16px 16px 0 0;moz-border-radius:16px 16px 0 0;padding:0;margin:0;background-image:none;line-height:1px;">
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width="100%" class="F3584_fbz_table"><tr><td class="F3584_fbz_title"  style="padding:0.7em;">
+<div style="padding:0.5em;font-size:160%;display:block;">Sign up for FREE updates!</div>
+</td></tr></table>
+<table border="0" cellpadding="6" cellspacing="0" align="center" width="100%" class="F3584_fbz_table">
+<tr class="F3584_fbz_row"><td class="F3584_fbz_label" style="padding-top:0.7em;padding:0"></td><td style="padding-left:0.5em"><div class="F3584_fbz_text" style="margin-bottom:0.3em;text-align:Default;color:#000000;">Your email address:<b style="color:red" title="Required">*</b></div>
+<input class="F3584_fbz_input" type="text" name="email" id="F3584_email" value=""  alt="How can we reach you?" title="How can we reach you?" placeholder="How can we reach you?" onclick="clickclear(this,'F3584')" onfocus="clickclear(this,'F3584')" onblur="clickrecall(this)"  width="100%" style="width:95%;padding-right:0;" fbz_val="validateEmail"></td></tr>
+<div style="display:none"><input type="hidden" name="feedid" id="F3584_feedid" value="860429"></div>
+<tr class="F3584_fbz_row_nohover F3584_fbz_smartform"><td class="F3584_fbz_fieldtext" colspan="2" ><div style="text-align:center">
+<input class="F3584_fbz_button" type="button" onClick="try{fbzClearChangedBorders();}catch(e){};req=fbz_v('F3584',F3584_requiredFields);val=fbz_v('F3584',F3584_validateFields,1);if(req && val){clearprompts(document.F3584);this.disabled=true;this.style.display='none';inlineSubmit('F3584','F3584_container');};" name="fbzsubscribe" id="F3584_subscribe" value="Subscribe »"  alt="click to join" title="click to join"  style="font-size:140%;"><img id="F3584_fbz_wait" style="display:none;width:48px;" src="https://s3.amazonaws.com/assets.feedblitz.com/images/spinner.gif"></div></td></tr>
+<div style="display:none"><input type="hidden" name="publisherid" id="F3584_publisherid" value="29584741"></div>
+<div style="display:none"><input type="hidden" name="cids" id="F3584_cids" value="1"></div>
+<tr class="F3584_fbz_row_nohover"><td colspan="2" style="padding:0;border:0"><div id="F3584_fbz_err" class="F3584_fbz_err" style="position:relative;">Please enter all required fields <img onClick="$('F3584_fbz_err').style.display='none';" border="0" align="baseline" width="8" height="8" style="float:right;align:baseline;width:8px;height:8px;opacity:0.5;cursor:pointer;position:absolute;top:4px;right:4px;" src="http://assets.feedblitz.com/images/close.gif"></div>
+<div id="F3584_fbz_invalid" class="F3584_fbz_invalid" style="position:relative;">Correct invalid entries <img onClick="$('F3584_fbz_invalid').style.display='none';" border="0" align="baseline" width="8" height="8" style="float:right;align:baseline;width:8px;height:8px;opacity:0.5;cursor:pointer;position:absolute;top:4px;right:4px;" src="http://assets.feedblitz.com/images/close.gif"></div>
+<div id="F3584_fbz_status" class="F3584_fbz_err"></div>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width="100%" class="F3584_fbz_table"><tr><td class="F3584_fbz_footer"  style="border-radius:0 0 16px 16px;moz-border-radius:0 0 16px 16px;padding:0.5em;">
+No spam, ever. I promise.
+</td></tr></table>
+</td>
+</tr></table>
+</form>
+</div><div style="display:none" id="F3584_ddcolorpicker">
+Please choose a color:
+<div id="F3584_colorpicker" style="position:relative; height:205px"></div>
+</div>
+<script type="text/javascript" src="https://www.feedblitz.com/f?p13n=860429"></script><script>fbz_SmartForm('F3584',feedblitz_full_form);</script><script type="text/javascript">var F3584_requiredFields=new Array();var F3584_validateFields=new Array();
+try{ddcolorpicker.init({
+ colorcontainer: ['F3584_ddcolorpicker', 'F3584_colorpicker'], 
+ displaymode: 'float', 
+ floatattributes: ['Color Picker', 'width=390px,height=250px,resize=1,scrolling=1,center=1'], 
+ fields: []
+});
+} catch(e){}
+F3584_requiredFields.push('F3584_email');
+F3584_requiredFields.push('F3584_feedid');
+F3584_requiredFields.push('F3584_publisherid');
+F3584_requiredFields.push('F3584_cids');
+try{s('F3584');}catch(e){};try{fbz_FitForm('F3584');}catch(e){}var F3584_fieldcol='#000000';</script>
+<script src="http://www.feedblitz.com/f?p13n=860429"></script>
+<script>if(feedblitz_full_form!=false){fbz_popup('F3584',3,1,10);}if(document.getElementById('F3584_ddcolorpickerbox')){document.getElementById('F3584_ddcolorpickerbox').style.display='none';};</script></div></div>
+		</div></section>
+</aside></div></div><div id="seedpack" align="center">
+
+<a href="http://www.onehundreddollarsamonth.com/?cat=51"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Recipe.jpg" alt="Recipes" width="143" height="195" /></a>
+<a href="http://www.onehundreddollarsamonth.com/?cat=347"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Garden.jpg" alt="Garden" width="143" height="195" /></a>
+<a href="http://www.onehundreddollarsamonth.com/?cat=1015"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Frugal.jpg" alt="Frugal" width="143" height="195" /></a>
+<a href="http://www.onehundreddollarsamonth.com/category/canning-101/"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Canning.jpg" alt="Canning" width="143" height="195" /></a>
+<a href="http://www.onehundreddollarsamonth.com/category/chickens/"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Chickens.jpg" alt="Chickens" width="143" height="195" /></a>
+<a href="http://www.onehundreddollarsamonth.com/?cat=66"><img src="http://onehundreddollarsamonth.com/wp-content/themes/lifestyle/images/Seed-Travel.jpg" alt="Travel" width="143" height="195" /></a>
+</div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2017 One Hundred Dollars a Month - <a href="http://www.onehundreddollarsamonth.com/dffgdfg/" target="_blank">Disclosure Policy</a> - Design by <a href="http://www.sharonhujik.com" target="_blank">Sharon Hujik</a></p></div></footer></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px;top:100px;"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_pinterest" href="http://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="Pinterest" rel="nofollow" target="_blank"></a><a class="a2a_button_printfriendly" href="http://www.addtoany.com/add_to/printfriendly?linkurl=http%3A%2F%2Fwww.onehundreddollarsamonth.com%2Fmeyer-lemon-ginger-marmalade-recipe%2F&amp;linkname=Meyer%20Lemon-Ginger%20Marmalade%20Recipe" title="PrintFriendly" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div>	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pin-it-button-pro/js/lazyload.min.js?ver=3.2.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pibJsVars = {"scriptFolder":"http:\/\/www.onehundreddollarsamonth.com\/wp-content\/plugins\/pinterest-pin-it-button-pro\/js\/","pageCustomBtnClass":null,"pageCustomBtnWidth":"43","pageCustomBtnHeight":"20","useHoverButton":"1","hoverBtnPlacement":"top-left","hoverMinImgWidth":"200","hoverMinImgHeight":"200","alwaysShowHover":"0","hoverBtnWidth":"58","hoverBtnHeight":"27","useOldHover":"0","hoverIgnoreClasses":"","showZeroCount":"false","sharebarEnabled":"0","enabledSharebarButtons":["Facebook Like","Pinterest","Google +1","Twitter","Facebook Share"],"appId":"","pmOverride":"0","pmDescription":"","disablePinitJS":"1","otherPlugins":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/pinterest-pin-it-button-pro/js/async-script-loader.js?ver=3.2.5.1'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201706'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://www.onehundreddollarsamonth.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201706.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'30012821',post:'63566',tz:'-8',srv:'www.onehundreddollarsamonth.com'} ]);
+	_stq.push([ 'clickTrackerInit', '30012821', '63566' ]);
+</script>
+</body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+
+ Served from: www.onehundreddollarsamonth.com @ 2017-02-11 12:17:54 by W3 Total Cache -->
